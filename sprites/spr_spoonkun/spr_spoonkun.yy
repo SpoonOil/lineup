@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"lineup9outtathisworld",
-    "path":"folders/Sprites/Character Sprites/lineup9outtathisworld.yy",
+    "name":"lineup9outtathisworld -1",
+    "path":"folders/Sprites/Character Sprites/lineup9outtathisworld -1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
