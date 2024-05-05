@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"lineup3",
-    "path":"folders/Sprites/Character Sprites/lineup3.yy",
+    "name":"lineup5glasses",
+    "path":"folders/Sprites/Character Sprites/lineup5glasses.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

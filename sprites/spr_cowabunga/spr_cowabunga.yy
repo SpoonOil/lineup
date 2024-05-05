@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"lineup2",
-    "path":"folders/Sprites/Character Sprites/lineup2.yy",
+    "name":"lineup2shellshock",
+    "path":"folders/Sprites/Character Sprites/lineup2shellshock.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
