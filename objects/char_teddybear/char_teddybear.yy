@@ -8,8 +8,8 @@
   "name":"char_teddybear",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup3",
+    "path":"folders/Objects/Characters/lineup3.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",

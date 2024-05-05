@@ -10,5 +10,5 @@ image_index = 0;
 //dialogue = ""
 //guilty = false;
 //bloodtype = none
-//particle = clay clown body parts
+//particle = clay clown body parts, one of each, full size. generic purple clay as well.
 //sound = snd_

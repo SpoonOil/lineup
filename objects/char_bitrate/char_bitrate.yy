@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"_char_template_1",
+  "%Name":"char_bitrate",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"_char_template_1",
+  "name":"char_bitrate",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup4",
+    "path":"folders/Objects/Characters/lineup4.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_placeholder",
-    "path":"sprites/spr_placeholder/spr_placeholder.yy",
+    "name":"spr_bitman",
+    "path":"sprites/spr_bitman/spr_bitman.yy",
   },
   "spriteMaskId":null,
   "visible":true,
