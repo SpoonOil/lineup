@@ -11,4 +11,4 @@ image_index = 0;
 //guilty = false;
 bloodtype = c_black
 //particle = false
-//sound = snd_
+//sound = Mandy1 Mandy2 Mandy3
