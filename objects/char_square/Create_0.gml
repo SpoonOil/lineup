@@ -5,7 +5,7 @@ event_inherited()
 image_index = 0;
 
 //name = ""
-//title = ""
+//title = "The Jaded"
 //alibi = ""
 //dialogue = ""
 //guilty = false;

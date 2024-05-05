@@ -4,8 +4,8 @@ event_inherited()
 
 image_index = 0;
 
-//name = ""
-//title = ""
+//name = "Windsor Tutolli"
+//title = "The Competative"
 //alibi = ""
 //dialogue = ""
 //guilty = false;

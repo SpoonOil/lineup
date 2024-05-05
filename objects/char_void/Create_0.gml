@@ -4,8 +4,9 @@ event_inherited()
 
 image_index = 0;
 
-//name = ""
-//title = ""
+//name = "Unknown Urial"
+//title = "The Enigma"
 //alibi = ""
 //dialogue = ""
 //guilty = false;
+bloodtype = c_black
