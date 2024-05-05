@@ -4,8 +4,9 @@ event_inherited()
 
 image_index = 0;
 
-//name = ""
+//name = "Rocco Tutolli"
 //title = "The Jaded"
-//alibi = ""
-//dialogue = ""
-//guilty = false;
+//alibi = "I was waiting for my brothers on the steps outside of SchmoozCorp."
+//dialogue = "Have you ever stolen before?^Oh yes. I’ve stolen plenty of times. Mostly movies and music, but occasionally things like flowers and balloons as well. I never steal food, if that’s what you’re asking. "
+//guilty = -1
+unlockable =[ "question rocco" , "Question button: Brothers?" , "That’s what I said, wasn’t it? Those two bozos were having a race." ]
