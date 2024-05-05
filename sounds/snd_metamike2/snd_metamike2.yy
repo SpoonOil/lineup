@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"mandy2",
+  "%Name":"snd_metamike2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.700952,
-  "name":"mandy2",
+  "duration":2.570816,
+  "name":"snd_metamike2",
   "parent":{
     "name":"character_sounds",
     "path":"folders/Sounds/character_sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mandy2.ogg",
+  "soundFile":"snd_metamike2.ogg",
   "type":0,
   "volume":1.0,
 }

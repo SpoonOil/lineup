@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"christian1",
+  "%Name":"snd_mandy1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.822041,
-  "name":"christian1",
+  "duration":2.107392,
+  "name":"snd_mandy1",
   "parent":{
     "name":"character_sounds",
     "path":"folders/Sounds/character_sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"christian1.ogg",
+  "soundFile":"snd_mandy1.ogg",
   "type":0,
   "volume":1.0,
 }

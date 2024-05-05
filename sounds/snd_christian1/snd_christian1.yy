@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Blindbag1",
+  "%Name":"snd_christian1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.464146,
-  "name":"Blindbag1",
+  "duration":0.822041,
+  "name":"snd_christian1",
   "parent":{
     "name":"character_sounds",
     "path":"folders/Sounds/character_sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Blindbag1.ogg",
+  "soundFile":"snd_christian1.ogg",
   "type":0,
   "volume":1.0,
 }

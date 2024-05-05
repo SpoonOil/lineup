@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"bustycrust",
+  "%Name":"snd_bustycrust",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":0.72275,
-  "name":"bustycrust",
+  "name":"snd_bustycrust",
   "parent":{
     "name":"character_sounds",
     "path":"folders/Sounds/character_sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"bustycrust.ogg",
+  "soundFile":"snd_bustycrust.ogg",
   "type":0,
   "volume":1.0,
 }
