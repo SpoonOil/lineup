@@ -104,6 +104,7 @@
     {"name":"christian1","order":3,"path":"sounds/christian1/christian1.yy",},
     {"name":"christian2","order":4,"path":"sounds/christian2/christian2.yy",},
     {"name":"christian3","order":5,"path":"sounds/christian3/christian3.yy",},
+    {"name":"dog1","order":11,"path":"sounds/dog1/dog1.yy",},
     {"name":"mandy1","order":8,"path":"sounds/mandy1/mandy1.yy",},
     {"name":"mandy2","order":9,"path":"sounds/mandy2/mandy2.yy",},
     {"name":"Mandy3","order":10,"path":"sounds/Mandy3/Mandy3.yy",},
