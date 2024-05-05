@@ -28,7 +28,7 @@
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Shaders","folderPath":"folders/Shaders.yy","name":"Shaders","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Shaders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Character Sprites","folderPath":"folders/Sprites/Character Sprites.yy","name":"Character Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"lineup0","folderPath":"folders/Sprites/Character Sprites/lineup0.yy","name":"lineup0","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -42,7 +42,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"lineup",
   "resources":[
@@ -108,6 +108,7 @@
     {"id":{"name":"wordwrap","path":"scripts/wordwrap/wordwrap.yy",},},
     {"id":{"name":"seq_guiltometer","path":"sequences/seq_guiltometer/seq_guiltometer.yy",},},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
+    {"id":{"name":"snd_bg","path":"sounds/snd_bg/snd_bg.yy",},},
     {"id":{"name":"spr_badgerton","path":"sprites/spr_badgerton/spr_badgerton.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_blindbag","path":"sprites/spr_blindbag/spr_blindbag.yy",},},
