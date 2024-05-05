@@ -7,10 +7,10 @@ draw_set_color(c_black)
 
 draw_set_halign(fa_left)
 draw_set_valign(fa_top)
-if (typed_string != "") {
-	draw_text(x + paddingx, y + paddingy, typed_string);
+if (text_string != "") {
+	draw_text_ext(x + paddingx, y + paddingy, text_string, 28, text_area_width);
 } else {
-	draw_text(x + paddingx, y + paddingy, default_msg);
+	draw_text_ext(x + paddingx, y + paddingy, default_msg, 28, text_area_width);
 }
 
 if (active) {

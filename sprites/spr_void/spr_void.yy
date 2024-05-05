@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_void",
-  "bboxMode":0,
-  "bbox_bottom":482,
-  "bbox_left":0,
+  "bboxMode":2,
+  "bbox_bottom":441,
+  "bbox_left":-2,
   "bbox_right":202,
   "bbox_top":0,
   "collisionKind":1,

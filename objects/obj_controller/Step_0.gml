@@ -19,13 +19,25 @@ if (global.active != "none") {
 }
 
 
-for (var _i = 0; _i < array_length(characters); _i++) {
-	var _character = characters[_i]
-	if (global.active != "none") {
-		_character.x = posx[_i]
-		_character.y = posy[_i]
-	} else {
-		_character.x = neutral_posx[_i]
-		_character.y = posy[_i]
+if (arresting = false) {
+	for (var _i = 0; _i < array_length(characters); _i++) {
+		var _character = characters[_i]
+		if (global.active != "none") {
+			_character.x = posx[_i]
+			_character.y = posy[_i]
+		} else {
+			_character.x = neutral_posx[_i]
+			_character.y = posy[_i]
+		}
 	}
+}
+
+
+
+if (arrested) {
+	arrested = false;
+	effect_create_layer("Desk", ef_firework, 0, 360, 800, c_red)
+	effect_create_layer("Desk", ef_firework, 0, 360, 800, c_red)
+	effect_create_layer("Desk", ef_firework, 0, 360, 8000, c_red)
+
 }

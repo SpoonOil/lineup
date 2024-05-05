@@ -3,7 +3,8 @@
 image_speed = 0
 
 alibi = ""
-guilty = false
+guilty = -1
 dialogue = ""
 name = ""
 title = ""
+stuffing_id = "id"

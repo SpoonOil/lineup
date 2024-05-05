@@ -8,4 +8,4 @@ image_index = 0;
 //title = ""
 alibi = "Sadster frowns, \"I wasn't even in the room where it happened! Jimmy McGimme can testify to that fact\""
 dialogue = "Sadster stares at you droopily, \"Sorry Detective, this is just how I look.\""
-//guilty = false;
+guilty = 1

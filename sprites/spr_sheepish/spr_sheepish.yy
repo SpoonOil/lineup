@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_sheepish",
-  "bboxMode":0,
-  "bbox_bottom":482,
-  "bbox_left":0,
+  "bboxMode":2,
+  "bbox_bottom":426,
+  "bbox_left":6,
   "bbox_right":198,
   "bbox_top":0,
   "collisionKind":1,

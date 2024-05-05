@@ -17,5 +17,4 @@ paddingx = 100;
 
 text_area_width = sprite_width - paddingx
 
-raw_string = ""
-text_string = wordwrap(raw_string, text_area_width, "\n", false)
+text_string = ""

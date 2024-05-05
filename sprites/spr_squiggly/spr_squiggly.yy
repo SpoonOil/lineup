@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_squiggly",
-  "bboxMode":0,
-  "bbox_bottom":482,
-  "bbox_left":0,
+  "bboxMode":2,
+  "bbox_bottom":444,
+  "bbox_left":-5,
   "bbox_right":238,
   "bbox_top":0,
   "collisionKind":1,
