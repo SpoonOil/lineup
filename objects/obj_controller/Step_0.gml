@@ -36,8 +36,6 @@ if (arresting = false) {
 
 if (arrested) {
 	arrested = false;
-	effect_create_layer("Desk", ef_firework, 0, 360, 800, c_red)
-	effect_create_layer("Desk", ef_firework, 0, 360, 800, c_red)
-	effect_create_layer("Desk", ef_firework, 0, 360, 8000, c_red)
-
+	var _ps = part_system_create(ps_blood);
+	
 }

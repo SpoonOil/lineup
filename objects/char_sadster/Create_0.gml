@@ -7,5 +7,5 @@ image_index = 0;
 //name = ""
 //title = ""
 alibi = "Sadster frowns, \"I wasn't even in the room where it happened! Jimmy McGimme can testify to that fact\""
-dialogue = "Sadster! stares at you droopily, \"Sorry Detective, this is just how I look.\""
+dialogue = "Sadster stares at you droopily, \"Sorry Detective, this is just how I look.\""
 guilty = 1
