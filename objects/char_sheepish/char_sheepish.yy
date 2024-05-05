@@ -8,8 +8,8 @@
   "name":"char_sheepish",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup0",
+    "path":"folders/Objects/Characters/lineup0.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",

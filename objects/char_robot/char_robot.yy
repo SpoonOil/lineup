@@ -8,8 +8,8 @@
   "name":"char_robot",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup2",
+    "path":"folders/Objects/Characters/lineup2.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",
