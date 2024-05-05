@@ -11,4 +11,4 @@ image_index = 0;
 //guilty = false;
 //bloodtype = #E82065
 //particle = false
-//sound = snd_
+//sound = blindbag1 blindbag2
