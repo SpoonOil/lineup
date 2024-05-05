@@ -9,3 +9,6 @@ image_index = 0;
 //alibi = ""
 //dialogue = ""
 //guilty = false;
+//bloodtype = $ or c_
+//particle = false
+//sound = snd_

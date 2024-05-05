@@ -7,4 +7,6 @@ guilty = -1
 dialogue = ""
 name = ""
 title = ""
-stuffing_id = "id"
+bloodtype = ""
+particle = "id"
+sound = ""
