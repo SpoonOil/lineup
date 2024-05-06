@@ -138,6 +138,7 @@
     {"id":{"name":"rm_lineup","path":"rooms/rm_lineup/rm_lineup.yy",},},
     {"id":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
     {"id":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
+    {"id":{"name":"rm_lineup4","path":"rooms/rm_lineup4/rm_lineup4.yy",},},
     {"id":{"name":"rm_opening","path":"rooms/rm_opening/rm_opening.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"getCharacters","path":"scripts/getCharacters/getCharacters.yy",},},
@@ -262,7 +263,6 @@
     {"id":{"name":"spr_placeholder","path":"sprites/spr_placeholder/spr_placeholder.yy",},},
     {"id":{"name":"spr_PLACEHOLDERbustycrust","path":"sprites/spr_PLACEHOLDERbustycrust/spr_PLACEHOLDERbustycrust.yy",},},
     {"id":{"name":"spr_PLACEHOLDERcrook","path":"sprites/spr_PLACEHOLDERcrook/spr_PLACEHOLDERcrook.yy",},},
-    {"id":{"name":"spr_PLACEHOLDERpaperboy","path":"sprites/spr_PLACEHOLDERpaperboy/spr_PLACEHOLDERpaperboy.yy",},},
     {"id":{"name":"spr_rageface","path":"sprites/spr_rageface/spr_rageface.yy",},},
     {"id":{"name":"spr_robot","path":"sprites/spr_robot/spr_robot.yy",},},
     {"id":{"name":"spr_sadster","path":"sprites/spr_sadster/spr_sadster.yy",},},
@@ -304,6 +304,7 @@
     {"roomId":{"name":"rm_lineup","path":"rooms/rm_lineup/rm_lineup.yy",},},
     {"roomId":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
     {"roomId":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
+    {"roomId":{"name":"rm_lineup4","path":"rooms/rm_lineup4/rm_lineup4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
