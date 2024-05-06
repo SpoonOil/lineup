@@ -10,7 +10,12 @@ event_inherited();
 
 if (active) {
 	image_index = 11
+	
+	if (global.active.name = "John Wauce") {
+		show_debug_message("flashy")
+		var _seq = layer_sequence_create("Sequences", 640, 360, seq_flashing)
 
+	}
 	if (global.active != "none") {
 		global.active.been_questioned = true;
 		var _string = global.active.dialogue
