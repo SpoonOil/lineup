@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_dog1",
+  "%Name":"snd_dog",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":30.94625,
-  "name":"snd_dog1",
+  "duration":0.490068,
+  "name":"snd_dog",
   "parent":{
     "name":"character_sounds",
     "path":"folders/Sounds/character_sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_dog1.mp3",
+  "soundFile":"snd_dog.ogg",
   "type":0,
   "volume":1.0,
 }

@@ -11,5 +11,5 @@ dialogue = "How long were you there for?^I was there all night drinking a steady
 //guilty = false;
 //bloodtype = #E82065
 //particle = false
-//sound = blindbag1 blindbag2
+//sound = snd_blindbag1 snd_blindbag2
 unlockable =[ "after elephant alibi" , "[ASK ABOUT KNOCKED DOLLAR]If the dollar was knocked down, you could have had easy access!" , "Listen bud, I have much better things to than sleight a bart owner I don't know. The other chick, though, seemed to be very upset with the owner." ]
