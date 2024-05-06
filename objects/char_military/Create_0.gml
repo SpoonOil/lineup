@@ -12,3 +12,4 @@ image_index = 0;
 //bloodtype = $ or c_
 //particle = false
 //sound = snd_
+alibi_hook = char_candy

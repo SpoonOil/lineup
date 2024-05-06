@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_PLACEHOLDERbustycrust",
-    "path":"sprites/spr_PLACEHOLDERbustycrust/spr_PLACEHOLDERbustycrust.yy",
+    "name":"spr_bustycrusty",
+    "path":"sprites/spr_bustycrusty/spr_bustycrusty.yy",
   },
   "spriteMaskId":null,
   "visible":true,

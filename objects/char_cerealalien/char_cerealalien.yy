@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cerealalien",
-    "path":"sprites/spr_cerealalien/spr_cerealalien.yy",
+    "name":"spr_cerealalienfinal",
+    "path":"sprites/spr_cerealalienfinal/spr_cerealalienfinal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
