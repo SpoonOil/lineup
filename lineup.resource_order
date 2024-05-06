@@ -44,7 +44,7 @@
     {"name":"char_blindbag","order":1,"path":"objects/char_blindbag/char_blindbag.yy",},
     {"name":"char_boy","order":48,"path":"objects/char_boy/char_boy.yy",},
     {"name":"char_bustycrusty","order":49,"path":"objects/char_bustycrusty/char_bustycrusty.yy",},
-    {"name":"char_candy","order":54,"path":"objects/char_candy/char_candy.yy",},
+    {"name":"char_candy","order":4,"path":"objects/char_candy/char_candy.yy",},
     {"name":"char_cerealalien","order":50,"path":"objects/char_cerealalien/char_cerealalien.yy",},
     {"name":"char_clayman","order":1,"path":"objects/char_clayman/char_clayman.yy",},
     {"name":"char_clownclay","order":27,"path":"objects/char_clownclay/char_clownclay.yy",},

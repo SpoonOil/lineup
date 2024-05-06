@@ -11,4 +11,4 @@ name = "Big Shrimp"
 //guilty = false;
 //bloodtype = $ or c_
 //particle = false
-//sound = christian1 christian2 christian3
+sound = [snd_christian1,snd_christian2,snd_christian3]
