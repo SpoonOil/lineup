@@ -3,3 +3,9 @@
 show_debug_message("bruh")
 direction = 0
 speed = 15
+
+if (global.active.guilty = 1) {
+	global.correct++
+} else if (global.active.guilty = -1){
+	global.incorrect++
+}

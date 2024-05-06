@@ -8,13 +8,20 @@ if (level = target_level) {
 		count--;
 		target_level = irandom_range(-80, 80)
 	} else {
+		target_level = -global.active.guilty * 80
 		if (global.active = "none") {
 			target_level = irandom_range(-80, 80)
 		} else {
 			if (active) {
 				active = false;
-				alarm[0] = 60;
-				target_level = -global.active.guilty * 80
+				alarm[0] = 120;
+			} else {
+				if (dingable) {
+					audio_play_sound(snd_ding, 10, false)
+					dingable = false
+					
+
+				}
 			}
 		}
 	}
