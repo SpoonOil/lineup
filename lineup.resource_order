@@ -106,6 +106,7 @@
     {"name":"snd_purplesound","order":25,"path":"sounds/snd_purplesound/snd_purplesound.yy",},
     {"name":"snd_rageface","order":26,"path":"sounds/snd_rageface/snd_rageface.yy",},
     {"name":"snd_sarge","order":27,"path":"sounds/snd_sarge/snd_sarge.yy",},
+    {"name":"snd_smartboy","order":43,"path":"sounds/snd_smartboy/snd_smartboy.yy",},
     {"name":"snd_sploder","order":36,"path":"sounds/snd_sploder/snd_sploder.yy",},
     {"name":"snd_spoonkun","order":37,"path":"sounds/snd_spoonkun/snd_spoonkun.yy",},
     {"name":"snd_sunman","order":28,"path":"sounds/snd_sunman/snd_sunman.yy",},

@@ -194,6 +194,7 @@
     {"id":{"name":"snd_purplesound","path":"sounds/snd_purplesound/snd_purplesound.yy",},},
     {"id":{"name":"snd_rageface","path":"sounds/snd_rageface/snd_rageface.yy",},},
     {"id":{"name":"snd_sarge","path":"sounds/snd_sarge/snd_sarge.yy",},},
+    {"id":{"name":"snd_smartboy","path":"sounds/snd_smartboy/snd_smartboy.yy",},},
     {"id":{"name":"snd_sploder","path":"sounds/snd_sploder/snd_sploder.yy",},},
     {"id":{"name":"snd_spoonkun","path":"sounds/snd_spoonkun/snd_spoonkun.yy",},},
     {"id":{"name":"snd_sunman","path":"sounds/snd_sunman/snd_sunman.yy",},},

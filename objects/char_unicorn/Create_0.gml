@@ -11,5 +11,5 @@ dialogue = "What is that pin you’re wearing?^I got this pin at a political ral
 guilty = 1
 //bloodtype = rainbow
 particle = false
-//sound = snd_
+sound = [snd_unicorn,snd_unicorn2]
 unlockable = [ "Or ask her about her boss?" , "The Elephant says you got into an argument with your boss?" , "That’s what I said, wasn’t it? Those two bozos were having a race." ]
