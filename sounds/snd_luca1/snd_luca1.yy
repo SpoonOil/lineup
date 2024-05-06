@@ -9,7 +9,11 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
+<<<<<<< Updated upstream
   "duration":3.129819,
+=======
+  "duration":4.504671,
+>>>>>>> Stashed changes
   "name":"snd_luca1",
   "parent":{
     "name":"character_sounds",
