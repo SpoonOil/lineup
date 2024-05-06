@@ -8,8 +8,8 @@
   "name":"char_glooglag",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup7",
+    "path":"folders/Objects/Characters/lineup7.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",
