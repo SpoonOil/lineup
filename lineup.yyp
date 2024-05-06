@@ -137,6 +137,7 @@
     {"id":{"name":"ps_paper","path":"particles/ps_paper/ps_paper.yy",},},
     {"id":{"name":"rm_lineup","path":"rooms/rm_lineup/rm_lineup.yy",},},
     {"id":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
+    {"id":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
     {"id":{"name":"rm_opening","path":"rooms/rm_opening/rm_opening.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"getCharacters","path":"scripts/getCharacters/getCharacters.yy",},},
@@ -144,6 +145,7 @@
     {"id":{"name":"Script5","path":"scripts/Script5/Script5.yy",},},
     {"id":{"name":"text","path":"scripts/text/text.yy",},},
     {"id":{"name":"wordwrap","path":"scripts/wordwrap/wordwrap.yy",},},
+    {"id":{"name":"seq_flashing","path":"sequences/seq_flashing/seq_flashing.yy",},},
     {"id":{"name":"seq_guiltometer","path":"sequences/seq_guiltometer/seq_guiltometer.yy",},},
     {"id":{"name":"seq_intro","path":"sequences/seq_intro/seq_intro.yy",},},
     {"id":{"name":"seq_intro2","path":"sequences/seq_intro2/seq_intro2.yy",},},
@@ -302,6 +304,7 @@
     {"roomId":{"name":"rm_opening","path":"rooms/rm_opening/rm_opening.yy",},},
     {"roomId":{"name":"rm_lineup","path":"rooms/rm_lineup/rm_lineup.yy",},},
     {"roomId":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
+    {"roomId":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

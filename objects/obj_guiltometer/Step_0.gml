@@ -19,7 +19,11 @@ if (level = target_level) {
 				if (dingable) {
 					audio_play_sound(snd_ding, 10, false)
 					dingable = false
-					
+					if (global.active.guilty = 1) {
+						global.correct++
+					} else if (global.active.guilty = -1){
+						global.incorrect++
+					}
 
 				}
 			}
