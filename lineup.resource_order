@@ -1,12 +1,12 @@
 {
   "FolderOrderSettings":[
-    {"name":"lineup6","order":24,"path":"folders/Objects/Characters/lineup6.yy",},
     {"name":"lineup0","order":17,"path":"folders/Objects/Characters/lineup0.yy",},
     {"name":"lineup1","order":18,"path":"folders/Objects/Characters/lineup1.yy",},
     {"name":"lineup2","order":19,"path":"folders/Objects/Characters/lineup2.yy",},
     {"name":"lineup3","order":20,"path":"folders/Objects/Characters/lineup3.yy",},
     {"name":"lineup4","order":21,"path":"folders/Objects/Characters/lineup4.yy",},
     {"name":"lineup5","order":22,"path":"folders/Objects/Characters/lineup5.yy",},
+    {"name":"lineup6","order":24,"path":"folders/Objects/Characters/lineup6.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"_char_template","order":23,"path":"objects/_char_template/_char_template.yy",},

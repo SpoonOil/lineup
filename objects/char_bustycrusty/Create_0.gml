@@ -5,7 +5,7 @@ event_inherited()
 image_index = 0;
 
 //name = "Artemis Podella"
-//title = ""
+//title = "She's Like Walking Prawn"
 //alibi = ""
 //dialogue = ""
 //guilty = false;
