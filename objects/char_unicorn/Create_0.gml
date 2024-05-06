@@ -12,4 +12,5 @@ image_index = 0;
 //bloodtype = rainbow
 //particle = false
 //sound = snd_
-unlockable =[ "question elephant" , "[ASK ABOUT BOSS]The Elephant says you got into an argument with your boss?" , "I was just standing up for what I believe in. Fair pay! This fight has set me back, I’ll never get that raise now. " ]
+//unlocked after talking to elephant
+[ "Or ask her about her boss?" , "The Elephant says you got into an argument with your boss?" , "That’s what I said, wasn’t it? Those two bozos were having a race." ]```
