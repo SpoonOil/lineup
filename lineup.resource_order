@@ -70,6 +70,7 @@
     {"name":"snd_christian1","order":6,"path":"sounds/snd_christian1/snd_christian1.yy",},
     {"name":"snd_christian2","order":7,"path":"sounds/snd_christian2/snd_christian2.yy",},
     {"name":"snd_christian3","order":8,"path":"sounds/snd_christian3/snd_christian3.yy",},
+    {"name":"snd_clownhonk","order":32,"path":"sounds/snd_clownhonk/snd_clownhonk.yy",},
     {"name":"snd_ding","order":2,"path":"sounds/snd_ding/snd_ding.yy",},
     {"name":"snd_dog","order":9,"path":"sounds/snd_dog/snd_dog.yy",},
     {"name":"snd_elephant","order":10,"path":"sounds/snd_elephant/snd_elephant.yy",},

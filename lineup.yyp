@@ -55,7 +55,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"lineup",
   "resources":[
@@ -158,6 +158,7 @@
     {"id":{"name":"snd_christian1","path":"sounds/snd_christian1/snd_christian1.yy",},},
     {"id":{"name":"snd_christian2","path":"sounds/snd_christian2/snd_christian2.yy",},},
     {"id":{"name":"snd_christian3","path":"sounds/snd_christian3/snd_christian3.yy",},},
+    {"id":{"name":"snd_clownhonk","path":"sounds/snd_clownhonk/snd_clownhonk.yy",},},
     {"id":{"name":"snd_ding","path":"sounds/snd_ding/snd_ding.yy",},},
     {"id":{"name":"snd_dog","path":"sounds/snd_dog/snd_dog.yy",},},
     {"id":{"name":"snd_elephant","path":"sounds/snd_elephant/snd_elephant.yy",},},
