@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "FolderOrderSettings":[
     {"name":"lineup0","order":17,"path":"folders/Objects/Characters/lineup0.yy",},
     {"name":"lineup1","order":18,"path":"folders/Objects/Characters/lineup1.yy",},
@@ -31,5 +32,28 @@
     {"name":"winemom1","order":1,"path":"sounds/winemom1/winemom1.yy",},
     {"name":"winemom2","order":2,"path":"sounds/winemom2/winemom2.yy",},
     {"name":"spr_paperboy","order":1,"path":"sprites/spr_paperboy/spr_paperboy.yy",},
+=======
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fnt_smallhand","order":1,"path":"fonts/fnt_smallhand/fnt_smallhand.yy",},
+    {"name":"obj_cop","order":1,"path":"objects/obj_cop/obj_cop.yy",},
+    {"name":"obj_cop2","order":3,"path":"objects/obj_cop2/obj_cop2.yy",},
+    {"name":"obj_introtext","order":1,"path":"objects/obj_introtext/obj_introtext.yy",},
+    {"name":"obj_scorekeeper","order":5,"path":"objects/obj_scorekeeper/obj_scorekeeper.yy",},
+    {"name":"obj_transition_pixelate","order":2,"path":"objects/obj_transition_pixelate/obj_transition_pixelate.yy",},
+    {"name":"rm_lineup2","order":2,"path":"rooms/rm_lineup2/rm_lineup2.yy",},
+    {"name":"rm_opening","order":1,"path":"rooms/rm_opening/rm_opening.yy",},
+    {"name":"screenshake","order":1,"path":"scripts/screenshake/screenshake.yy",},
+    {"name":"Script5","order":2,"path":"scripts/Script5/Script5.yy",},
+    {"name":"seq_intro","order":1,"path":"sequences/seq_intro/seq_intro.yy",},
+    {"name":"seq_intro2","order":2,"path":"sequences/seq_intro2/seq_intro2.yy",},
+    {"name":"snd_ding","order":2,"path":"sounds/snd_ding/snd_ding.yy",},
+    {"name":"snd_explosion","order":3,"path":"sounds/snd_explosion/snd_explosion.yy",},
+    {"name":"snd_luca1","order":1,"path":"sounds/snd_luca1/snd_luca1.yy",},
+    {"name":"spr_cop","order":3,"path":"sprites/spr_cop/spr_cop.yy",},
+    {"name":"spr_cutbg","order":2,"path":"sprites/spr_cutbg/spr_cutbg.yy",},
+    {"name":"spr_evidence1","order":1,"path":"sprites/spr_evidence1/spr_evidence1.yy",},
+    {"name":"spr_scorekeeper","order":4,"path":"sprites/spr_scorekeeper/spr_scorekeeper.yy",},
+>>>>>>> Stashed changes
   ],
 }
