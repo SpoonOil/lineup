@@ -11,5 +11,5 @@ dialogue = "Did you shoot Yorven Robes?^I couldn’t have shot Yorven Robes, I d
 guilty = -1
 //bloodtype = #401e1e
 particle = false
-//sound = snd_
+sound = snd_candy
 unlockable = ["or ask about his friends gig?", "Did your friends say anything about the upcoming film Bullet Barry?", "I couldn’t tell ya! I live on a farm in Pennsylvania now, much quieter! I don’t think about movies anymore, in fact the only technology I keep around is my car, phone and my vacuum cleaner. No recalls on any of those unlike that AI crap that’s been pumping out of Silicon Valley? Their first line of robot-do-it-alls turned out to be quite explosive, they’ve been firing junk out of the exhaust hole in their stomachs!"]

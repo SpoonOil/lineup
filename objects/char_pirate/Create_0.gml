@@ -11,4 +11,4 @@ dialogue = "Why did Robes advocate for your grant?^Ahoy, he had taken a special 
 guilty = -1
 bloodtype = $ or c_
 particle = false
-//sound = snd_
+sound = snd_pirate

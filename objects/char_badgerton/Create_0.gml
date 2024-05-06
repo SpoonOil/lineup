@@ -11,4 +11,4 @@ dialogue = "Who do you suspect did it?^Oh like, that’s easy! I don’t trust b
 guilty = -1
 bloodtype = $ or c_
 //particle = false
-//sound = snd_
+sound = snd_badgerton

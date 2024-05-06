@@ -11,4 +11,4 @@ dialogue = "If you hate it so much, why do you still go to Western Chester's?^I 
 guilty = -1
 //bloodtype = c_blue
 particle = false
-//sound = snd_
+sound = snd_ogre

@@ -11,5 +11,5 @@ dialogue = "Why'd you do that for?^Bzzzz some call me a sex pest bzzz, but that'
 guilty = -1
 bloodtype = c_green
 particle = false
-//sound = snd_
+sound = snd_buzz
 unlockable = ["or ask about sobriety", "Why would you lie about drinking that night?", "Bzzz lie?! Who said anything about lying about drinking!! I was drunk as a, uhhh, a drunk person. Bzzzz keep this between you and me, I came to the bar to show off my stuff, but now I need to tell the court I was intoxicated otherwise I get locked up for breaching my sex offense status!"] 

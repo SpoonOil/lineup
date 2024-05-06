@@ -11,5 +11,5 @@ dialogue = "You just came from a battlefield? Are you sure you haven’t lost yo
 guilty = -1
 bloodtype = $ or c_
 particle = false
-//sound = snd_
+sound = snd_sarge
 alibi_hook = char_candy

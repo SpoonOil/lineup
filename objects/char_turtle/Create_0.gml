@@ -11,4 +11,4 @@ dialogue = "Was there any “blatant, obvious evil” out that night?^Right on, 
 guilty = false;
 //bloodtype = #13F200
 //particle = false
-//sound = snd_
+sound = snd_turtle

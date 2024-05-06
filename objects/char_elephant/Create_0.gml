@@ -11,6 +11,6 @@ dialogue = "How long have you been working under Western Chester's? ^Ever since 
 guilty = -1
 bloodtype = $ or c_
 particle = false
-//sound = snd_
+sound = snd_elephant
 alibi_hook = char_blindbag
 question_hook = char_unicorn
