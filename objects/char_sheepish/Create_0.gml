@@ -11,3 +11,4 @@ dialogue = "How is your relationship with your brothers?^We might not always get
 //guilty = -1
 unlocked = false
 unlockable =[ "Or ask him about what rocco said?" , "Rocco says you were inside, though.", "Oh god that jerk. Only for a second, I was busy losing a race, and that’s all I’ll share." ]
+sound = snd_greensound
