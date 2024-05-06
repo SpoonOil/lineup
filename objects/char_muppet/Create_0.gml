@@ -11,4 +11,4 @@ dialogue = "How tech savvy are you?^I can work a phone if that’s what your ask
 guilty = 1
 //bloodtype = none
 //particle = cotton stuffing
-//sound = snd_
+sound = [snd_muppet1,snd_muppet2]

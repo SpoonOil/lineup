@@ -11,4 +11,4 @@ dialogue = "How often do you take the bus?^Not very often at all, the last time 
 guilty = -1
 //bloodtype = none
 //particle = clay clown body parts, one of each, full size. generic purple clay as well.
-//sound = snd_
+sound = snd_clownhonk
