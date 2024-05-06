@@ -9,6 +9,6 @@ image_index = 0;
 //alibi = ""
 //dialogue = ""
 //guilty = false;
-//bloodtype = $ or c_
+//bloodtype = red
 //particle = cotton stuffing
 //sound = snd_

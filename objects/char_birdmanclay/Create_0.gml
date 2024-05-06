@@ -10,5 +10,5 @@ image_index = 0;
 //dialogue = ""
 //guilty = false;
 //bloodtype = none
-//particle = clay birdman parts
+//particle = birdman_green, clayman orange and generic purple clay
 //sound = snd_
