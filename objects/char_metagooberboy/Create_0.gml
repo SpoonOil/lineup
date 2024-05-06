@@ -11,4 +11,4 @@ image_index = 0;
 //guilty = -1
 //bloodtype = $ or c_
 //particle = false
-sound = [snd_metamike1,snd_metamike2]
+//sound = metamike1 metamike2

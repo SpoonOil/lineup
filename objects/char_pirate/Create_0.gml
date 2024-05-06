@@ -4,6 +4,7 @@ event_inherited()
 
 image_index = 0;
 
+<<<<<<< HEAD
 name = "Dr. Captain Fusion"
 title = "The Edutainer"
 alibi = "Did you shoot shoot Yorven Robes?^Yahoy, I have no quarrels with Yorven Robes, twas actually Yorven Robes who advocated for me received’ me lucrative grant! Besides, couldn’t have been me, I was swabbing the poop decoherence!"
@@ -11,4 +12,13 @@ dialogue = "Why did Robes advocate for your grant?^Ahoy, he had taken a special 
 guilty = -1
 bloodtype = $ or c_
 particle = false
+=======
+//name = ""
+//title = ""
+//alibi = ""
+//dialogue = ""
+//guilty = false;
+//bloodtype = $ or c_
+//particle = false
+>>>>>>> parent of e4e7a85 (updated luca)
 //sound = snd_

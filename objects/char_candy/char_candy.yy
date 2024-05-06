@@ -8,8 +8,8 @@
   "name":"char_candy",
   "overriddenProperties":[],
   "parent":{
-    "name":"lineup2",
-    "path":"folders/Objects/Characters/lineup2.yy",
+    "name":"Characters",
+    "path":"folders/Objects/Characters.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",

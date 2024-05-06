@@ -11,7 +11,11 @@ dialogue = "Why were your mouths so dry?^Uhhh, pretty sure I can’t answer that
 guilty = -1
 //bloodtype = $ or c_
 //particle = false
+<<<<<<< HEAD
 sound = [snd_christian1,snd_christian2,snd_christian3]
 question_hook = char_christian
 unlockable = ["Or ask about party hosts?", "Burns too bright for their britches?", "Yeah, those guys are a bunch of hotheads, and whats worse is they’re so desperate they’d do anything to keep people at their parties. Pretty sure one of their guys pulled our fire alarms this one time."]
 unlockable_hook = char_sunman
+=======
+//sound = christian1 christian2 christian3
+>>>>>>> parent of e4e7a85 (updated luca)
