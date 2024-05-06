@@ -11,4 +11,4 @@ dialogue = "How fast were you going?^Just fast enough to get my brother there in
 guilty = -1
 //bloodtype = c_green
 //particle = false
-//sound = snd_
+sound = snd_sploder

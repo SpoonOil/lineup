@@ -11,4 +11,4 @@ dialogue = "You appeared out of a portal?^Yes, I can’t believe it as well, but
 guilty = 1
 //bloodtype = #f7c443
 //particle = false
-//sound = snd_
+sound = snd_spoonkun
