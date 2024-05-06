@@ -55,7 +55,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"lineup",
   "resources":[
@@ -139,6 +139,9 @@
     {"id":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
     {"id":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
     {"id":{"name":"rm_lineup4","path":"rooms/rm_lineup4/rm_lineup4.yy",},},
+    {"id":{"name":"rm_lineup5","path":"rooms/rm_lineup5/rm_lineup5.yy",},},
+    {"id":{"name":"rm_lineup6","path":"rooms/rm_lineup6/rm_lineup6.yy",},},
+    {"id":{"name":"rm_lineup7","path":"rooms/rm_lineup7/rm_lineup7.yy",},},
     {"id":{"name":"rm_opening","path":"rooms/rm_opening/rm_opening.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"getCharacters","path":"scripts/getCharacters/getCharacters.yy",},},
@@ -315,6 +318,9 @@
     {"roomId":{"name":"rm_lineup2","path":"rooms/rm_lineup2/rm_lineup2.yy",},},
     {"roomId":{"name":"rm_lineup3","path":"rooms/rm_lineup3/rm_lineup3.yy",},},
     {"roomId":{"name":"rm_lineup4","path":"rooms/rm_lineup4/rm_lineup4.yy",},},
+    {"roomId":{"name":"rm_lineup5","path":"rooms/rm_lineup5/rm_lineup5.yy",},},
+    {"roomId":{"name":"rm_lineup6","path":"rooms/rm_lineup6/rm_lineup6.yy",},},
+    {"roomId":{"name":"rm_lineup7","path":"rooms/rm_lineup7/rm_lineup7.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
