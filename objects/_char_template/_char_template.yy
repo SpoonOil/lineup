@@ -8,8 +8,8 @@
   "name":"_char_template",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup5",
+    "path":"folders/Objects/Characters/lineup5.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",

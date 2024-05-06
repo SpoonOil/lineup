@@ -4,4 +4,5 @@ if (global.text_queue[0] != "end") {
 	typed = -1
 	typed_string = ""
 	array_shift(global.text_queue)
+	array_shift(global.name_queue)
 }

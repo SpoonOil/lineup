@@ -13,7 +13,7 @@ if (level = target_level) {
 		} else {
 			if (active) {
 				active = false;
-				alarm[0] = 30;
+				alarm[0] = 60;
 				target_level = -global.active.guilty * 80
 			}
 		}
