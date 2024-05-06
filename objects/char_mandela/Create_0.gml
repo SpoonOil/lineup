@@ -11,4 +11,4 @@ dialogue = "Did you light the fire?^FIRE. Fire ignites the passion within us. It
 guilty = -1
 //bloodtype = c_black
 //particle = false
-//sound = Mandy1 Mandy2 Mandy3
+sound = [snd_mandy1,snd_mandy2,snd_Mandy3]

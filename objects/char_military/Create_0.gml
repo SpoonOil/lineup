@@ -4,7 +4,6 @@ event_inherited()
 
 image_index = 0;
 
-<<<<<<< HEAD
 name = "Sgt. Shrapnel"
 title = "The Soldier"
 alibi = "Did you shoot shoot Yorven Robes?^Brother, I’m about to be real honest with you, I don’t even know how I ended up in this city. I'm completely isolated from my crew. Last time I checked, I was on the battlefield, trying to get a tactical advantage over our adversaries. I guess I walked too far. I also left my gun on the battlefield, which is probably why I ran so far away. "
@@ -14,13 +13,3 @@ bloodtype = $ or c_
 particle = false
 //sound = snd_
 alibi_hook = char_candy
-=======
-//name = ""
-//title = ""
-//alibi = ""
-//dialogue = ""
-//guilty = false;
-//bloodtype = $ or c_
-//particle = false
-//sound = snd_
->>>>>>> parent of e4e7a85 (updated luca)
