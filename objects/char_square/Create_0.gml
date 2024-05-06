@@ -12,4 +12,4 @@ guilty = -1
 question_hook = char_square
 alibi_hook = char_sheepish
 unlockable =[ "Or ask him about his brothers?" , "Brothers?" , "That’s what I said, wasn’t it? Those two bozos were having a race." ]
-sound = snd_
+sound = snd_jaded
