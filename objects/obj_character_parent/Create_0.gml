@@ -1,12 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 image_speed = 0
-soundable = true;
+
 alibi = ""
-alibi_hook = ""
+alibi_hook = "none"
 guilty = -1
 dialogue = ""
-question_hook = ""
+question_hook = "none"
 name = ""
 title = ""
 bloodtype = ""
@@ -14,4 +14,3 @@ particle = "id"
 sound = ""
 unlocked = false
 unlockable = "none"
-unlockable_hook = ""

@@ -11,4 +11,4 @@ dialogue = "Is the customer always right at Clay Jule’s Clay Tools?^*In a perf
 guilty = 1
 //bloodtype = $ or c_
 //particle = false
-//sound = snd_
+sound = snd_rageface

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_evidence1",
-    "path":"sprites/spr_evidence1/spr_evidence1.yy",
+    "name":"spr_photo",
+    "path":"sprites/spr_photo/spr_photo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

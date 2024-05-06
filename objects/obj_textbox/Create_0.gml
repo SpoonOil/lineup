@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-default_msg = "What should I do next? Question or ask for an Alibi?\n"
+global.text_queue = ["end"]
+default_msg = "What should I do next?                   or ask for an         ?\n"
 typed = -1
 typed_string = ""
 name_string = ""
-title_string = ""
 active = false;
 
 draw_set_valign(fa_top);
@@ -18,3 +18,5 @@ paddingx = 100;
 text_area_width = sprite_width - paddingx
 
 text_string = ""
+
+text(default_msg, name_string)

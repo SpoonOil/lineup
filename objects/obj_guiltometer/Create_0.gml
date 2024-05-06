@@ -7,4 +7,3 @@ target_level = irandom_range(-80, 80)
 ispeed = 0
 count = 3;
 active = true;
-dingable = true;

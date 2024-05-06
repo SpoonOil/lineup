@@ -8,8 +8,8 @@
   "name":"char_cube",
   "overriddenProperties":[],
   "parent":{
-    "name":"Characters",
-    "path":"folders/Objects/Characters.yy",
+    "name":"lineup6",
+    "path":"folders/Objects/Characters/lineup6.yy",
   },
   "parentObjectId":{
     "name":"obj_character_parent",

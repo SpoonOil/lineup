@@ -6,4 +6,3 @@ event_inherited();
 
 // You can write your code in this editor
 button_string = "Play"
-image_index = 1

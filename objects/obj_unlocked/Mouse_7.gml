@@ -15,11 +15,11 @@ if (button_string != "") {
 
 		if (global.active != "none") {
 			
-			text(global.active.unlockable[2], global.active.name, global.active.title)
-			text(global.active.unlockable[1], global.detective_name, "")
+			text(global.active.unlockable[1], global.active.name)
+			text(global.active.unlockable[2], global.detective_name)
 			
-			if (global.active.unlockable_hook !="") {
-				global.active.unlockable_hook.unlocked = true;
+			if (global.active.question_hook !="") {
+				global.active.question_hook.unlocked = true;
 			}
 		}	
 	}

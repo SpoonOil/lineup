@@ -4,7 +4,7 @@ event_inherited()
 
 image_index = 0;
 
-//name = ""
+//name = "Artemis Podella"
 //title = ""
 //alibi = ""
 //dialogue = ""

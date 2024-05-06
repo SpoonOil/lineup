@@ -1,6 +1,6 @@
 {
-<<<<<<< Updated upstream
   "FolderOrderSettings":[
+    {"name":"lineup6","order":24,"path":"folders/Objects/Characters/lineup6.yy",},
     {"name":"lineup0","order":17,"path":"folders/Objects/Characters/lineup0.yy",},
     {"name":"lineup1","order":18,"path":"folders/Objects/Characters/lineup1.yy",},
     {"name":"lineup2","order":19,"path":"folders/Objects/Characters/lineup2.yy",},
@@ -11,16 +11,15 @@
   "ResourceOrderSettings":[
     {"name":"_char_template","order":23,"path":"objects/_char_template/_char_template.yy",},
     {"name":"char_birdmanclay","order":13,"path":"objects/char_birdmanclay/char_birdmanclay.yy",},
-    {"name":"char_boy","order":4,"path":"objects/char_boy/char_boy.yy",},
-    {"name":"char_bustycrusty","order":8,"path":"objects/char_bustycrusty/char_bustycrusty.yy",},
+    {"name":"char_boy","order":1,"path":"objects/char_boy/char_boy.yy",},
     {"name":"char_cerealalien","order":3,"path":"objects/char_cerealalien/char_cerealalien.yy",},
-    {"name":"char_clownclay","order":14,"path":"objects/char_clownclay/char_clownclay.yy",},
+    {"name":"char_clownclay","order":2,"path":"objects/char_clownclay/char_clownclay.yy",},
     {"name":"char_crayonoctopus","order":10,"path":"objects/char_crayonoctopus/char_crayonoctopus.yy",},
     {"name":"char_crook","order":12,"path":"objects/char_crook/char_crook.yy",},
-    {"name":"char_cube","order":9,"path":"objects/char_cube/char_cube.yy",},
+    {"name":"char_cube","order":4,"path":"objects/char_cube/char_cube.yy",},
     {"name":"char_dog","order":5,"path":"objects/char_dog/char_dog.yy",},
     {"name":"char_glooglag","order":7,"path":"objects/char_glooglag/char_glooglag.yy",},
-    {"name":"char_muppet","order":11,"path":"objects/char_muppet/char_muppet.yy",},
+    {"name":"char_muppet","order":3,"path":"objects/char_muppet/char_muppet.yy",},
     {"name":"char_mysterychuff","order":1,"path":"objects/char_mysterychuff/char_mysterychuff.yy",},
     {"name":"char_nun","order":16,"path":"objects/char_nun/char_nun.yy",},
     {"name":"char_sockpuppet","order":2,"path":"objects/char_sockpuppet/char_sockpuppet.yy",},
@@ -51,28 +50,5 @@
     {"name":"evidence4","order":1,"path":"sprites/evidence4/evidence4.yy",},
     {"name":"evidence5","order":2,"path":"sprites/evidence5/evidence5.yy",},
     {"name":"spr_paperboy","order":1,"path":"sprites/spr_paperboy/spr_paperboy.yy",},
-=======
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"fnt_smallhand","order":1,"path":"fonts/fnt_smallhand/fnt_smallhand.yy",},
-    {"name":"obj_cop","order":1,"path":"objects/obj_cop/obj_cop.yy",},
-    {"name":"obj_cop2","order":3,"path":"objects/obj_cop2/obj_cop2.yy",},
-    {"name":"obj_introtext","order":1,"path":"objects/obj_introtext/obj_introtext.yy",},
-    {"name":"obj_scorekeeper","order":5,"path":"objects/obj_scorekeeper/obj_scorekeeper.yy",},
-    {"name":"obj_transition_pixelate","order":2,"path":"objects/obj_transition_pixelate/obj_transition_pixelate.yy",},
-    {"name":"rm_lineup2","order":2,"path":"rooms/rm_lineup2/rm_lineup2.yy",},
-    {"name":"rm_opening","order":1,"path":"rooms/rm_opening/rm_opening.yy",},
-    {"name":"screenshake","order":1,"path":"scripts/screenshake/screenshake.yy",},
-    {"name":"Script5","order":2,"path":"scripts/Script5/Script5.yy",},
-    {"name":"seq_intro","order":1,"path":"sequences/seq_intro/seq_intro.yy",},
-    {"name":"seq_intro2","order":2,"path":"sequences/seq_intro2/seq_intro2.yy",},
-    {"name":"snd_ding","order":2,"path":"sounds/snd_ding/snd_ding.yy",},
-    {"name":"snd_explosion","order":3,"path":"sounds/snd_explosion/snd_explosion.yy",},
-    {"name":"snd_luca1","order":1,"path":"sounds/snd_luca1/snd_luca1.yy",},
-    {"name":"spr_cop","order":3,"path":"sprites/spr_cop/spr_cop.yy",},
-    {"name":"spr_cutbg","order":2,"path":"sprites/spr_cutbg/spr_cutbg.yy",},
-    {"name":"spr_evidence1","order":1,"path":"sprites/spr_evidence1/spr_evidence1.yy",},
-    {"name":"spr_scorekeeper","order":4,"path":"sprites/spr_scorekeeper/spr_scorekeeper.yy",},
->>>>>>> Stashed changes
   ],
 }

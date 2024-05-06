@@ -11,5 +11,5 @@ dialogue = "Why were you in such a hurry to get some lemonade?^It’s simple, I 
 guilty = 1
 //bloodtype = c_yellow
 //particle = false
-//sound = snd_
+sound = snd_sunman
 unlockable = ["Or ask about his frat?", "Is it true your frat will do anything to keep the party going?", "What are you getting at, bro? We’re a party safe space, meaning if we have the space its safe to say there’s going to be a party taking place. "]
