@@ -2,7 +2,7 @@
 // You can write your code in this editor
 image_speed = 0;
 step = 0;
-name = "Cop"
+name = "Neutral Cop"
 title = ""
 sequence = [["This is the Lineup Room. In this room, five selected individuals will be guilty until proven innocent.", 0],
 ["That means it's your job to isolate the lowlife who did the crime so we can send them to the Isolation Station", 0], 
