@@ -2,6 +2,8 @@ global.active = "none"
 global.inspect = ""
 global.dialogue = ""
 global.guilty = false
+global.name_queue = ["end"]
+global.detective_name = "Detective"
 
 spotlight = instance_find(obj_spotlight, 0)
 

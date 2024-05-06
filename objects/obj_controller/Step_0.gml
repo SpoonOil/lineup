@@ -36,6 +36,5 @@ if (arresting = false) {
 
 if (arrested) {
 	arrested = false;
-	var _ps = part_system_create(ps_blood);
-	
+		alarm[0] = 30
 }
