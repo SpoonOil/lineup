@@ -11,4 +11,4 @@ image_index = 0;
 //guilty = false;
 //bloodtype = #93262b
 //particle = false
-//sound = snd_
+sound = [snd_winemom1,snd_winemom2]

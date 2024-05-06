@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_PLACEHOLDERpaperboy",
-    "path":"sprites/spr_PLACEHOLDERpaperboy/spr_PLACEHOLDERpaperboy.yy",
+    "name":"spr_paperboy",
+    "path":"sprites/spr_paperboy/spr_paperboy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
