@@ -20,6 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snd_bg.wav",
-  "type":0,
-  "volume":0.0,
+  "type":1,
+  "volume":1.0,
 }

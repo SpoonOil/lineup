@@ -26,8 +26,6 @@ characters = getCharacters()
 starting = []
 array_copy(starting, 0, characters, 0, array_length(characters))
 
-bg_audio = audio_play_sound(snd_bg, 10, true);
-audio_sound_loop_start(bg_audio, 11)
 
 //screenshaker
 

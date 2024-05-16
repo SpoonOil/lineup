@@ -1,2 +1,3 @@
 global.testimony = "On the evening of XX X XXXX in Uptown Hollywood, a one Mr. Yorven Robes was found shot dead when his limousine pulled into his house. His limo driver has since been cleared of all suspicions thanks to dashcam evidence, but this means the killer could have been anyone from his route home. These five suspects were gathered due to proximity to the limo route as well as from the request of the driver who identified \“probably most of them as walking on the street that night\”."
 obj_controller.intro_done = true
+evidence = evidence2

@@ -1,3 +1,3 @@
 global.testimony = "Someone bought up the city’s entire stock of bus tickets to scalp on TicketBastard! We checked the city law and it turns out- you just can’t do that! We didn’t really know where to look, so we had some of our guy take some round trips on the city buses (free of charge of course) while they rounded up some potential suspects. As for evidence, all we’ve got is this receipt, if only we knew who it belonged to!"
-global.evidence = evidence5
+global.evidence = evidence6
 obj_controller.intro_done = true
