@@ -11,5 +11,5 @@ dialogue = "Did you light the fire?^Oh I would never do such a horrid thing to t
 guilty = 1
 //bloodtype = $ or c_
 //particle = false
-//sound = snd_
+sound = snd_gramma
 unlockable = ["Or ask about the 8pm fire?", "The fire happened around 8 and you said you feed the ducks at 7.", "Well that night those pesky middle schoolers were causing a ruckus!! They scared the ducks away so I went home early!!"]
